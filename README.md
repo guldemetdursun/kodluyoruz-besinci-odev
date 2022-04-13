@@ -11,4 +11,4 @@
 
 - HTML5 yardımıyla bir ana başlık ve iki ara başlık ile basit bir web sitesi hazırladım.
 
-* Hazırladığım web sitesinin önizlemi şu şekildedir.
+* Hazırladığım web sitesinin önizlenimi aşağıdaki gibidir:
