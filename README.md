@@ -11,6 +11,6 @@
 
 - HTML5 yardımıyla bir ana başlık ve iki ara başlık ile basit bir web sitesi hazırladım.
 
-[Ödev Linkim için tıklayınız](https://github.com/guldemetdursun/kodluyoruz-besinci-odev.git)
+
 
 
